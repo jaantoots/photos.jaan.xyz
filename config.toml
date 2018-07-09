@@ -1,16 +1,15 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "https://photos.jaan.xyz/"
 languageCode = "en-us"
-title = "Phugo"
+title = "Photos by jaan.xyz"
 theme = "phugo"
-googleAnalytics = "UA-XXXXXXX-Y"
 
 [params]
 
     # Meta
-    description = "Phugo - Photo Gallery on Hugo"
-    author = "aerohub"
-    keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
+    description = "Photos by Jaan Toots"
+    author = "jaan.xyz"
+    keywords = "photogallery, photoblog, jaantoots"
     
     # Headerbar links
     # Do not put here too many links,
@@ -24,8 +23,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
     # Footer panel
     
     [params.footer.paragraph]
-    headline = "Magna feugiat sed adipiscing"
-    text = "Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum."
+    headline = "Gallery"
+    text = "Mostly travel photography. All photos are available under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Contact me for original or better quality files.<br/> The source code for this site is available on [git.jaan.xyz](https://git.jaan.xyz) and [GitHub](https://github.com/jaantoots)."
     
     [params.footer.social]
     headline = "Follow me"
@@ -34,16 +33,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
     label = "Twitter"
     url = "#"
     icon = "fa-twitter"
-
-    [[params.footer.social.links]]
-    label = "Facebook"
-    url = "#"
-    icon = "fa-facebook"
-
-    [[params.footer.social.links]]
-    label = "Instagram"
-    url = "#"
-    icon = "fa-instagram"
 
     [[params.footer.social.links]]
     label = "Github"
@@ -55,11 +44,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
     url = "#"
     icon = "fa-dribbble"
 
-    [[params.footer.social.links]]
-    label = "LinkedIn"
-    url = "#"
-    icon = "fa-linkedin"
-    
     # Contact form
     
     # Since this template is static, the contact form uses www.formspree.io as a
@@ -75,7 +59,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     # - you're done. Happy mailing!
     
     [params.footer.contact]
-    realEmail = "example@examle.org"
+    realEmail = "jaan@photos.jaan.xyz"
     headline = "Get in touch"
     buttonText = "Send"
     resetText = "Reset"
@@ -95,4 +79,4 @@ googleAnalytics = "UA-XXXXXXX-Y"
     
     # Copyright
     [params.footer.copyright]
-    name = "Your name"
+    name = "Jaan Toots. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
