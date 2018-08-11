@@ -1,8 +1,8 @@
----
-title: "Japan"
-date: 2018-07-10T01:05:41+01:00
-albumthumb: "_MG_8975-HDR.jpg"
----
++++
+title = "Japan"
+date = 2018-07-10T01:05:41+01:00
+albumthumb = "2018-06-09-japan/_MG_8975-HDR.1200x800.jpg"
++++
 
 {{< photo full="_MG_8975-HDR.jpg" thumb="_MG_8975-HDR.1200x800.jpg" alt="_MG_8975-HDR.jpg" phototitle="View from Mount Hakodate (函館山)" description="5166x2906 | 24.0 mm | 1/1600 | F8.0 | ISO 400 | 41.759578 N, 140.704243 E | 2018-06-09 18:16:26">}}
 {{< photo full="_MG_8983.jpg" thumb="_MG_8983.1200x800.jpg" alt="_MG_8983.jpg" phototitle="Hakodate (函館)" description="5184x3456 | 24.0 mm | 25 | F7.1 | ISO 100 | 41.759393 N, 140.704725 E | 2018-06-09 18:29:57">}}
