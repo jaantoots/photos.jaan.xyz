@@ -1,15 +1,15 @@
 # Settings
 baseurl = "https://photos.jaan.xyz/"
 languageCode = "en-us"
-title = "Photos by jaan.xyz"
+title = "Photos - jaan.xyz"
 theme = "phugo"
 
 [params]
 
     # Meta
     description = "Photos by Jaan Toots"
-    author = "jaan.xyz"
-    keywords = "photogallery, photoblog, jaantoots"
+    author = "Jaan Toots"
+    keywords = "photogallery, photoblog, jaantoots, jaan toots"
     
     # Headerbar links
     # Do not put here too many links,
