@@ -27,22 +27,12 @@ theme = "phugo"
     text = "Mostly travel photography. All photos are available under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Contact me for original or better quality files.<br/> The source code for this site is available on [git.jaan.xyz](https://git.jaan.xyz) and [GitHub](https://github.com/jaantoots)."
     
     [params.footer.social]
-    headline = "Follow me"
-
-    [[params.footer.social.links]]
-    label = "Twitter"
-    url = "#"
-    icon = "fa-twitter"
+    headline = "Find me"
 
     [[params.footer.social.links]]
     label = "Github"
-    url = "#"
+    url = "https://github.com/jaantoots"
     icon = "fa-github"
-
-    [[params.footer.social.links]]
-    label = "Dribbble"
-    url = "#"
-    icon = "fa-dribbble"
 
     # Contact form
     
